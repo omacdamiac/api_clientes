@@ -13,3 +13,8 @@ INSERT INTO clientes (nombre, apellido, correo, fecha_registro) VALUES('Carlos',
 INSERT INTO clientes (nombre, apellido, correo, fecha_registro) VALUES('Marcela', 'Sanchez', 'schMarce@itb.com', '2023-08-03');
 INSERT INTO clientes (nombre, apellido, correo, fecha_registro) VALUES('Ben', 'Tennyson', 'ben10@cn.com', '2023-08-04');
 ```
+
+
+### REPOSITORIO:
+Explicado por [Walter Rosero ]([https://pages.github.com/](https://github.com/walterroseroec)https://github.com/walterroseroec).
+
